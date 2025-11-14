@@ -1,4 +1,4 @@
-# 📱 **FINANCEGENIUS CAMPUS - RESUMEN EJECUTIVO**
+# 📱 **FINANCEGENIUS CAMPUS**
 
 ## 🎯 **¿QUÉ ES LA APP?**
 
