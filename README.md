@@ -1,8 +1,8 @@
-# 📱 **FINANCEGENIUS CAMPUS**
+# 📱 **FINANCE GENIUS**
 
 ## 🎯 **¿QUÉ ES LA APP?**
 
-**FinanceGenius Campus** es una **plataforma educativa financiera móvil** diseñada específicamente para **estudiantes universitarios**. Combina **educación teórica estructurada** con **herramientas prácticas de gestión financiera** en una única experiencia integrada.
+**FinanceGenius** es una **plataforma educativa financiera móvil** diseñada específicamente para **estudiantes universitarios**. Combina **educación teórica estructurada** con **herramientas prácticas de gestión financiera** en una única experiencia integrada.
 
 ---
 
